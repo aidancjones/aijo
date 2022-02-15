@@ -43,3 +43,7 @@ a:active {
   text-decoration: none;
   color: black;
 }
+
+div:gallery {
+  image-align: center
+}
